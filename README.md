@@ -17,3 +17,9 @@ Here are a few examples of what you'll find in this repo:
 This drawing demonstrates how to create a simple flower using **Jetpack Compose**.
 
 ![Flower](./readme/flower.png)
+
+### ❤️ Heart
+
+A beautiful heart shape created with **SwiftUI**.
+
+![Heart](./readme/heart.png)
