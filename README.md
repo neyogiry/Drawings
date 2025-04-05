@@ -34,3 +34,7 @@ This is a fun and iconic drawing of a **Pokeball**, made with **Flutter**.
 ## 🤖 Contribute
 
 Feel free to fork the repository and contribute! If you'd like to add more drawings or improve existing ones, submit a pull request.
+
+## Find this repository useful? ♥️
+Support it by joining __[neyogiry](https://github.com/neyogiry/Drawings/stargazers)__ for this repository. 🌟 <br>
+Also, __[follow me](https://github.com/neyogiry)__ on GitHub for more content! 👨‍💻
