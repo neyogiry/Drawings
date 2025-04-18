@@ -24,8 +24,9 @@ This drawing demonstrates how to create a simple flower using **Jetpack Compose*
 
 A beautiful heart shape created with **SwiftUI**.
 
-![Heart](./readme/heart.png)
-
+<p align="center">
+<img src="/readme/heart.png" width="320"/>
+</p>
 
 ### 🔴 Pokeball
 
