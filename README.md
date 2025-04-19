@@ -32,7 +32,9 @@ A beautiful heart shape created with **SwiftUI**.
 
 This is a fun and iconic drawing of a **Pokeball**, made with **Flutter**.
 
-![Pokeball](./readme/pokeball.png)
+<p align="center">
+<img src="/readme/pokeball.png" width="320"/>
+</p>
 
 ## 🤖 Contribute
 
