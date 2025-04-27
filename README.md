@@ -12,6 +12,14 @@ Welcome to **Drawing with Different Languages**! This repository showcases a col
 
 Here are a few examples of what you'll find in this repo:
 
+### 🔴 Pokeball
+
+This is a fun and iconic drawing of a **Pokeball**, made with **SwiftUI**.
+
+<p align="center">
+<img src="/readme/pokeball.png" width="320"/>
+</p>
+
 ### 🌸 Flower
 
 This drawing demonstrates how to create a simple flower using **Jetpack Compose**.
@@ -20,17 +28,9 @@ This drawing demonstrates how to create a simple flower using **Jetpack Compose*
 <img src="/readme/flower.png" width="320"/>
 </p>
 
-### 🔴 Pokeball
-
-This is a fun and iconic drawing of a **Pokeball**, made with **Flutter**.
-
-<p align="center">
-<img src="/readme/pokeball.png" width="320"/>
-</p>
-
 ### ❤️ Heart
 
-A beautiful heart shape created with **SwiftUI**.
+A beautiful heart shape created with **Jetpack Compose**.
 
 <p align="center">
 <img src="/readme/heart.png" width="320"/>
